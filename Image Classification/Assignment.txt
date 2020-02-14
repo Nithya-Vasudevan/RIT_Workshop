@@ -1,0 +1,5 @@
+Problem statement: Write a python program to classify 3 categories of flowers from IRIS dataset. We have 210 flower images.
+Split the dataset into 3 groups namely, train set, validation set and test set with corresponding ratio, 7:2:1.
+Hence, train set should have 147 images, validation set should have 42 and test set should have 21 images.
+Train your model with training set and mention validation set to evaluate validation accuracy.  
+Your code should accept an image from test set and predict the flower type (category/class).
